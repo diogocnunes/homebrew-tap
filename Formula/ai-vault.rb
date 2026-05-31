@@ -1,8 +1,8 @@
 class AiVault < Formula
   desc "Keep AI adapter files outside Git and link them into projects"
   homepage "https://github.com/diogocnunes/ai-shadow-vault"
-  url "https://github.com/diogocnunes/ai-shadow-vault/archive/refs/tags/v6.1.0.tar.gz"
-sha256 "953f546c981a918d26698b09b269913c6165ab28d6b9bf367886505822858ab5"
+  url "https://github.com/diogocnunes/ai-shadow-vault/archive/refs/tags/v6.1.1.tar.gz"
+sha256 "22acca9b240aa174c656d1ef0ac8336869d54ed6baecf9fee45a9daccf4954ac"
   license "MIT"
 
   def install
